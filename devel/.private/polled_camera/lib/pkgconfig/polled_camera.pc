@@ -1,0 +1,8 @@
+prefix=/home/uav_master/vision_ws/devel/.private/polled_camera
+
+Name: polled_camera
+Description: Description of polled_camera
+Version: 1.11.10
+Cflags: -I/home/uav_master/vision_ws/devel/.private/polled_camera/include -I/home/uav_master/vision_ws/src/image_common/polled_camera/include
+Libs: -L/home/uav_master/vision_ws/devel/.private/polled_camera/lib -lpolled_camera
+Requires: roscpp sensor_msgs

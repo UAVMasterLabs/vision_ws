@@ -1,0 +1,9 @@
+In file included from /home/uav_master/vision_ws/src/rovio/src/feature_tracker_node.cpp:29:0:
+/home/uav_master/vision_ws/src/rovio/src/../include/rovio/featureTracker.hpp:33:45: fatal error: image_transport/image_transport.h: No such file or directory
+ #include <image_transport/image_transport.h>
+                                             ^
+compilation terminated.
+make[2]: *** [CMakeFiles/feature_tracker_node.dir/src/feature_tracker_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/feature_tracker_node.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

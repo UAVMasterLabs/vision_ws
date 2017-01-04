@@ -1,0 +1,8 @@
+prefix=/home/uav_master/vision_ws/install
+
+Name: lightweight_filtering
+Description: Description of lightweight_filtering
+Version: 0.0.9
+Cflags: -I/home/uav_master/vision_ws/install/include -I/home/uav_master/vision_ws/devel/include
+Libs: -L/home/uav_master/vision_ws/install/lib 
+Requires: 

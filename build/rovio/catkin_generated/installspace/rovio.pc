@@ -1,0 +1,8 @@
+prefix=/home/uav_master/vision_ws/install
+
+Name: rovio
+Description: Description of rovio
+Version: 0.0.0
+Cflags: -I/home/uav_master/vision_ws/install/include -I/home/uav_master/vision_ws/devel/include -I/opt/ros/indigo/include -I/usr/include -I/usr/include/opencv
+Libs: -L/home/uav_master/vision_ws/install/lib -lrovio
+Requires: lightweight_filtering kindr roscpp roslib cv_bridge message_runtime nav_msgs geometry_msgs sensor_msgs std_msgs tf rosbag

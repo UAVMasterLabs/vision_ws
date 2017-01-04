@@ -1,0 +1,23 @@
+image_pipeline/image_proc
+/home/uav_master/vision_ws/devel/.private/image_proc/include/image_proc/CropDecimateConfig.h /home/uav_master/vision_ws/devel/include/image_proc/CropDecimateConfig.h
+/home/uav_master/vision_ws/devel/.private/image_proc/include/image_proc/DebayerConfig.h /home/uav_master/vision_ws/devel/include/image_proc/DebayerConfig.h
+/home/uav_master/vision_ws/devel/.private/image_proc/include/image_proc/RectifyConfig.h /home/uav_master/vision_ws/devel/include/image_proc/RectifyConfig.h
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/docs/CropDecimateConfig.wikidoc /home/uav_master/vision_ws/devel/share/image_proc/docs/CropDecimateConfig.wikidoc
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/docs/DebayerConfig-usage.dox /home/uav_master/vision_ws/devel/share/image_proc/docs/DebayerConfig-usage.dox
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/docs/RectifyConfig.dox /home/uav_master/vision_ws/devel/share/image_proc/docs/RectifyConfig.dox
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/docs/DebayerConfig.dox /home/uav_master/vision_ws/devel/share/image_proc/docs/DebayerConfig.dox
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/docs/RectifyConfig.wikidoc /home/uav_master/vision_ws/devel/share/image_proc/docs/RectifyConfig.wikidoc
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/docs/CropDecimateConfig.dox /home/uav_master/vision_ws/devel/share/image_proc/docs/CropDecimateConfig.dox
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/docs/DebayerConfig.wikidoc /home/uav_master/vision_ws/devel/share/image_proc/docs/DebayerConfig.wikidoc
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/docs/RectifyConfig-usage.dox /home/uav_master/vision_ws/devel/share/image_proc/docs/RectifyConfig-usage.dox
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/docs/CropDecimateConfig-usage.dox /home/uav_master/vision_ws/devel/share/image_proc/docs/CropDecimateConfig-usage.dox
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/cmake/image_procConfig-version.cmake /home/uav_master/vision_ws/devel/share/image_proc/cmake/image_procConfig-version.cmake
+/home/uav_master/vision_ws/devel/.private/image_proc/share/image_proc/cmake/image_procConfig.cmake /home/uav_master/vision_ws/devel/share/image_proc/cmake/image_procConfig.cmake
+/home/uav_master/vision_ws/devel/.private/image_proc/lib/libimage_proc.so /home/uav_master/vision_ws/devel/lib/libimage_proc.so
+/home/uav_master/vision_ws/devel/.private/image_proc/lib/pkgconfig/image_proc.pc /home/uav_master/vision_ws/devel/lib/pkgconfig/image_proc.pc
+/home/uav_master/vision_ws/devel/.private/image_proc/lib/image_proc/image_proc /home/uav_master/vision_ws/devel/lib/image_proc/image_proc
+/home/uav_master/vision_ws/devel/.private/image_proc/lib/python2.7/dist-packages/image_proc/__init__.py /home/uav_master/vision_ws/devel/lib/python2.7/dist-packages/image_proc/__init__.py
+/home/uav_master/vision_ws/devel/.private/image_proc/lib/python2.7/dist-packages/image_proc/cfg/__init__.py /home/uav_master/vision_ws/devel/lib/python2.7/dist-packages/image_proc/cfg/__init__.py
+/home/uav_master/vision_ws/devel/.private/image_proc/lib/python2.7/dist-packages/image_proc/cfg/DebayerConfig.py /home/uav_master/vision_ws/devel/lib/python2.7/dist-packages/image_proc/cfg/DebayerConfig.py
+/home/uav_master/vision_ws/devel/.private/image_proc/lib/python2.7/dist-packages/image_proc/cfg/RectifyConfig.py /home/uav_master/vision_ws/devel/lib/python2.7/dist-packages/image_proc/cfg/RectifyConfig.py
+/home/uav_master/vision_ws/devel/.private/image_proc/lib/python2.7/dist-packages/image_proc/cfg/CropDecimateConfig.py /home/uav_master/vision_ws/devel/lib/python2.7/dist-packages/image_proc/cfg/CropDecimateConfig.py

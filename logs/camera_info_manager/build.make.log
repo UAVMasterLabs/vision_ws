@@ -1,0 +1,5 @@
+[ 33%] Built target gtest
+[31m[1mLinking CXX shared library /home/uav_master/vision_ws/devel/.private/camera_info_manager/lib/libcamera_info_manager.so
+[0m[ 66%] Built target camera_info_manager
+[31m[1mLinking CXX executable /home/uav_master/vision_ws/devel/.private/camera_info_manager/lib/camera_info_manager/unit_test
+[0m[100%] Built target unit_test

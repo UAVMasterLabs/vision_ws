@@ -1,0 +1,17 @@
+[35m[1mScanning dependencies of target apriltag_mit
+[0m[ 28%] [ 28%] [ 28%] [ 28%] [32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/Edge.cc.o
+[32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/FloatImage.cc.o
+[32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/GLineSegment2D.cc.o
+[0m[0m[0m[32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/GLine2D.cc.o
+[0m[ 35%] [ 42%] [32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/Gaussian.cc.o
+[0m[32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/GrayModel.cc.o
+[0m[ 50%] [32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/Homography33.cc.o
+[0m[ 57%] [32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/MathUtil.cc.o
+[0m[ 64%] [32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/Quad.cc.o
+[0m[ 71%] [32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/Segment.cc.o
+[0m[ 78%] [32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/TagDetection.cc.o
+[0m[ 85%] [32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/TagDetector.cc.o
+[0m[ 92%] [32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/TagFamily.cc.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/apriltag_mit.dir/src/UnionFindSimple.cc.o
+[0m[31m[1mLinking CXX shared library /home/uav_master/vision_ws/devel/.private/apriltag_mit/lib/libapriltag_mit.so
+[0m[100%] Built target apriltag_mit

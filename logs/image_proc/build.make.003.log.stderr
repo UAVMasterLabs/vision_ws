@@ -1,0 +1,9 @@
+catkin_generated/env_cached.sh: 16: exec: /home/uav_master/vision_ws/src/image_pipeline/image_proc/cfg/CropDecimate.cfg: Permission denied
+make[2]: *** [/home/uav_master/vision_ws/devel/.private/image_proc/include/image_proc/CropDecimateConfig.h] Error 126
+make[2]: *** Waiting for unfinished jobs....
+catkin_generated/env_cached.sh: 16: exec: /home/uav_master/vision_ws/src/image_pipeline/image_proc/cfg/Rectify.cfg: Permission denied
+make[2]: *** [/home/uav_master/vision_ws/devel/.private/image_proc/include/image_proc/RectifyConfig.h] Error 126
+catkin_generated/env_cached.sh: 16: exec: /home/uav_master/vision_ws/src/image_pipeline/image_proc/cfg/Debayer.cfg: Permission denied
+make[2]: *** [/home/uav_master/vision_ws/devel/.private/image_proc/include/image_proc/DebayerConfig.h] Error 126
+make[1]: *** [CMakeFiles/image_proc_gencfg.dir/all] Error 2
+make: *** [all] Error 2

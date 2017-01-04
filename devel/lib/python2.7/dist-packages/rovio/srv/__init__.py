@@ -1,0 +1,1 @@
+/home/uav_master/vision_ws/devel/.private/rovio/lib/python2.7/dist-packages/rovio/srv/__init__.py

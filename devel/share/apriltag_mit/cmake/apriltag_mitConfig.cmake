@@ -1,0 +1,1 @@
+/home/uav_master/vision_ws/devel/.private/apriltag_mit/share/apriltag_mit/cmake/apriltag_mitConfig.cmake

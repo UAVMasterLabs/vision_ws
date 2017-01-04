@@ -1,0 +1,36 @@
+CMake Warning (dev) at CMakeLists.txt:15 (add_subdirectory):
+  The source directory
+
+    /home/uav_master/vision_ws/src/rovio/lightweight_filtering
+
+  does not contain a CMakeLists.txt file.
+
+  CMake does not support this case but it used to work accidentally and is
+  being allowed for compatibility.
+
+  Policy CMP0014 is not set: Input directories must have CMakeLists.txt.  Run
+  "cmake --help-policy CMP0014" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+[31m[1mCMake Error[0m at /home/uav_master/vision_ws/src/rovio/CMakeLists.txt:23 (find_package):
+  By not providing "FindEigen3.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "Eigen3", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "Eigen3" with any
+  of the following names:
+
+    Eigen3Config.cmake
+    eigen3-config.cmake
+
+  Add the installation prefix of "Eigen3" to CMAKE_PREFIX_PATH or set
+  "Eigen3_DIR" to a directory containing one of the above files.  If "Eigen3"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/uav_master/vision_ws/build/rovio/CMakeFiles/CMakeOutput.log".
+See also "/home/uav_master/vision_ws/build/rovio/CMakeFiles/CMakeError.log".
+make: *** [cmake_check_build_system] Error 1

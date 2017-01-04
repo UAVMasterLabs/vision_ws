@@ -1,0 +1,26 @@
+[35m[1mScanning dependencies of target rovio
+[0m[ 14%] [ 42%] [ 42%] [ 57%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/Camera.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/rovio.dir/src/rovio_node.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o
+[0m[31m[1mLinking CXX shared library /home/uav_master/vision_ws/devel/.private/rovio/lib/librovio.so
+[0m[ 57%] Built target rovio
+[35m[1mScanning dependencies of target rovio_node
+[35m[1mScanning dependencies of target rovio_rosbag_loader
+[35m[1mScanning dependencies of target feature_tracker_node
+[0m[0m[0m[ 71%] [ 85%] [32mBuilding CXX object CMakeFiles/feature_tracker_node.dir/src/feature_tracker_node.cpp.o
+[32mBuilding CXX object CMakeFiles/rovio_node.dir/src/rovio_node.cpp.o
+[0m[0m[100%] [32mBuilding CXX object CMakeFiles/rovio_rosbag_loader.dir/src/rovio_rosbag_loader.cpp.o
+In file included from /home/uav_master/vision_ws/src/rovio/src/feature_tracker_node.cpp:29:0:
+/home/uav_master/vision_ws/src/rovio/src/../include/rovio/featureTracker.hpp:33:45: fatal error: image_transport/image_transport.h: No such file or directory
+ #include <image_transport/image_transport.h>
+                                             ^
+compilation terminated.
+make[2]: *** [CMakeFiles/feature_tracker_node.dir/src/feature_tracker_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/feature_tracker_node.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[0m[31m[1mLinking CXX executable /home/uav_master/vision_ws/devel/.private/rovio/lib/rovio/rovio_rosbag_loader
+[0m[31m[1mLinking CXX executable /home/uav_master/vision_ws/devel/.private/rovio/lib/rovio/rovio_node
+[0m[100%] Built target rovio_rosbag_loader
+[100%] Built target rovio_node
+make: *** [all] Error 2

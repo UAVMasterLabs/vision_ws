@@ -1,0 +1,6 @@
+Not searching for unused variables given on the command line.
+[36m--[0m Setting build-tests to false as not specified.
+[36m--[0m Could NOT find Doxygen (missing:  DOXYGEN_EXECUTABLE)
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/uav_master/vision_ws/build/kindr

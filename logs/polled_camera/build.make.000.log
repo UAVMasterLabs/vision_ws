@@ -1,0 +1,36 @@
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[0m[  0%] [  0%] Built target std_msgs_generate_messages_cpp
+Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _polled_camera_generate_messages_check_deps_GetPolledImage
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[0m[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py
+[0m[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _polled_camera_generate_messages_check_deps_GetPolledImage
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp
+[0m[35m[1mScanning dependencies of target polled_camera_generate_messages_cpp
+[0m[  0%] Built target sensor_msgs_generate_messages_lisp
+[ 16%] [35m[1mScanning dependencies of target polled_camera_generate_messages_py
+[0m[34m[1mGenerating C++ code from polled_camera/GetPolledImage.srv
+[0m[ 33%] [34m[1mGenerating Python code from SRV polled_camera/GetPolledImage
+[0m[ 50%] [34m[1mGenerating Python srv __init__.py for polled_camera
+[0m[ 50%] Built target polled_camera_generate_messages_py
+[35m[1mScanning dependencies of target polled_camera_generate_messages_lisp
+[0m[ 66%] [34m[1mGenerating Lisp code from polled_camera/GetPolledImage.srv
+[0m[ 66%] Built target polled_camera_generate_messages_lisp
+[ 66%] Built target polled_camera_generate_messages_cpp
+[35m[1mScanning dependencies of target polled_camera_generate_messages
+[0m[35m[1mScanning dependencies of target polled_camera_gencpp
+[0m[ 66%] [ 66%] Built target polled_camera_generate_messages
+Built target polled_camera_gencpp
+[35m[1mScanning dependencies of target polled_camera
+[0m[ 83%] [32mBuilding CXX object CMakeFiles/polled_camera.dir/src/publication_server.cpp.o
+[0m[31m[1mLinking CXX shared library /home/uav_master/vision_ws/devel/.private/polled_camera/lib/libpolled_camera.so
+[0m[ 83%] Built target polled_camera
+[35m[1mScanning dependencies of target poller
+[0m[100%] [32mBuilding CXX object CMakeFiles/poller.dir/src/poller.cpp.o
+[0m[31m[1mLinking CXX executable /home/uav_master/vision_ws/devel/.private/polled_camera/lib/polled_camera/poller
+[0m[100%] Built target poller

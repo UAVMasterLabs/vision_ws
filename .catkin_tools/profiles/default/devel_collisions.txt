@@ -1,0 +1,3 @@
+/home/uav/vision_ws/devel/share/lightweight_filtering/cmake/lightweight_filteringConfig.cmake 8
+/home/uav/vision_ws/devel/lib/pkgconfig/lightweight_filtering.pc 8
+/home/uav/vision_ws/devel/share/lightweight_filtering/cmake/lightweight_filteringConfig-version.cmake 8

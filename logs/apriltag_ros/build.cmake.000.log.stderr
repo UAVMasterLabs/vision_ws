@@ -1,0 +1,49 @@
+[36m--[0m Failed to find gtsam - Could not find gtsam include directory, set GTSAM_INCLUDE_DIR to directory containing gtsam/config.h
+[36m--[0m Failed to find gtsam - Could not find gtsam library, set GTSAM_LIBRARY to full path to libgtsam.
+CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+Please set them or make sure they are set and tested correctly in the CMake files:
+GTSAM_INCLUDE_DIR
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+   used as include directory in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+GTSAM_LIBRARY
+    linked by target "apriltag_ros" in directory /home/uav_master/vision_ws/src/aprilslam/apriltag_ros
+

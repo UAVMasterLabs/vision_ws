@@ -1,0 +1,8 @@
+prefix=/home/uav_master/vision_ws/devel/.private/apriltag_ros
+
+Name: apriltag_ros
+Description: Description of apriltag_ros
+Version: 1.0.0
+Cflags: -I/home/uav_master/vision_ws/devel/.private/apriltag_ros/include
+Libs: -L/home/uav_master/vision_ws/devel/.private/apriltag_ros/lib 
+Requires: 

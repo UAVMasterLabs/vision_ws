@@ -1,0 +1,17 @@
+[35m[1mScanning dependencies of target rovio
+[0m[ 37%] [ 37%] [ 37%] [ 50%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/rovio_node.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/rovio.dir/src/FeatureCoordinates.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/rovio.dir/src/FeatureDistance.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/rovio.dir/src/Camera.cpp.o
+[0m[ 62%] [32mBuilding CXX object CMakeFiles/rovio.dir/src/Scene.cpp.o
+[0m[31m[1mLinking CXX shared library /home/uav_master/vision_ws/devel/.private/rovio/lib/librovio.so
+[0m[ 62%] Built target rovio
+[ 75%] [ 87%] [100%] [32mBuilding CXX object CMakeFiles/feature_tracker_node.dir/src/feature_tracker_node.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/rovio_node.dir/src/rovio_node.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/rovio_rosbag_loader.dir/src/rovio_rosbag_loader.cpp.o
+[0m[31m[1mLinking CXX executable /home/uav_master/vision_ws/devel/.private/rovio/lib/rovio/feature_tracker_node
+[0m[100%] Built target feature_tracker_node
+[31m[1mLinking CXX executable /home/uav_master/vision_ws/devel/.private/rovio/lib/rovio/rovio_rosbag_loader
+[0m[100%] Built target rovio_rosbag_loader
+[31m[1mLinking CXX executable /home/uav_master/vision_ws/devel/.private/rovio/lib/rovio/rovio_node
+[0m[100%] Built target rovio_node

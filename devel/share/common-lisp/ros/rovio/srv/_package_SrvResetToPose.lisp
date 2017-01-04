@@ -1,0 +1,1 @@
+/home/uav_master/vision_ws/devel/.private/rovio/share/common-lisp/ros/rovio/srv/_package_SrvResetToPose.lisp

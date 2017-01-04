@@ -1,0 +1,8 @@
+prefix=/home/uav_master/vision_ws/devel/.private/usb_cam
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.4
+Cflags: -I/home/uav_master/vision_ws/src/image_common/usb_cam/include
+Libs: -L/home/uav_master/vision_ws/devel/.private/usb_cam/lib -lusb_cam
+Requires: 

@@ -1,0 +1,32 @@
+[35m[1mScanning dependencies of target _polled_camera_generate_messages_check_deps_GetPolledImage
+[0m[  0%] Built target _polled_camera_generate_messages_check_deps_GetPolledImage
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp
+[0m[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py
+[0m[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp
+[0m[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target polled_camera_generate_messages_cpp
+[0m[ 16%] Built target polled_camera_generate_messages_cpp
+[35m[1mScanning dependencies of target polled_camera_generate_messages_py
+[0m[ 50%] Built target polled_camera_generate_messages_py
+[35m[1mScanning dependencies of target polled_camera_generate_messages_lisp
+[0m[ 66%] Built target polled_camera_generate_messages_lisp
+[35m[1mScanning dependencies of target polled_camera_gencpp
+[0m[ 66%] Built target polled_camera_gencpp
+[35m[1mScanning dependencies of target polled_camera_generate_messages
+[0m[ 66%] Built target polled_camera_generate_messages
+[35m[1mScanning dependencies of target polled_camera
+[0m[ 83%] [32mBuilding CXX object CMakeFiles/polled_camera.dir/src/publication_server.cpp.o
+[0m[31m[1mLinking CXX shared library /home/uav_master/vision_ws/devel/.private/polled_camera/lib/libpolled_camera.so
+[0m[ 83%] Built target polled_camera
+[35m[1mScanning dependencies of target poller
+[0m[100%] [32mBuilding CXX object CMakeFiles/poller.dir/src/poller.cpp.o
+[0m[31m[1mLinking CXX executable /home/uav_master/vision_ws/devel/.private/polled_camera/lib/polled_camera/poller
+[0m[100%] Built target poller

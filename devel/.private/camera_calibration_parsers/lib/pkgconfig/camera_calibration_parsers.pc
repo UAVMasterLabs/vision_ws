@@ -1,0 +1,8 @@
+prefix=/home/uav_master/vision_ws/devel/.private/camera_calibration_parsers
+
+Name: camera_calibration_parsers
+Description: Description of camera_calibration_parsers
+Version: 1.11.10
+Cflags: -I/home/uav_master/vision_ws/src/image_common/camera_calibration_parsers/include
+Libs: -L/home/uav_master/vision_ws/devel/.private/camera_calibration_parsers/lib -lcamera_calibration_parsers
+Requires: sensor_msgs

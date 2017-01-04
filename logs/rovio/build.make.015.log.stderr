@@ -1,0 +1,32 @@
+In file included from /home/uav_master/vision_ws/src/rovio/src/rovio_node.cpp:40:0:
+/home/uav_master/vision_ws/src/rovio/include/rovio/RovioNode.hpp: In member function ‘void rovio::RovioNode<FILTER>::imgCallback(const ImageConstPtr&, int)’:
+/home/uav_master/vision_ws/src/rovio/include/rovio/RovioNode.hpp:481:49: error: ‘dst’ was not declared in this scope
+       cv_ptr = cv_bridge::toCvCopy(cvtColor(img,dst,CV_GRAY2RGB), sensor_msgs::image_encodings::TYPE_8UC1);
+                                                 ^
+/home/uav_master/vision_ws/src/rovio/include/rovio/RovioNode.hpp:481:64: error: there are no arguments to ‘cvtColor’ that depend on a template parameter, so a declaration of ‘cvtColor’ must be available [-fpermissive]
+       cv_ptr = cv_bridge::toCvCopy(cvtColor(img,dst,CV_GRAY2RGB), sensor_msgs::image_encodings::TYPE_8UC1);
+                                                                ^
+/home/uav_master/vision_ws/src/rovio/include/rovio/RovioNode.hpp:481:64: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+/home/uav_master/vision_ws/src/rovio/include/rovio/RovioNode.hpp: In instantiation of ‘void rovio::RovioNode<FILTER>::imgCallback(const ImageConstPtr&, int) [with FILTER = rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >; sensor_msgs::ImageConstPtr = boost::shared_ptr<const sensor_msgs::Image_<std::allocator<void> > >]’:
+/home/uav_master/vision_ws/src/rovio/include/rovio/RovioNode.hpp:459:22:   required from ‘void rovio::RovioNode<FILTER>::imgCallback0(const ImageConstPtr&) [with FILTER = rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >; sensor_msgs::ImageConstPtr = boost::shared_ptr<const sensor_msgs::Image_<std::allocator<void> > >]’
+/home/uav_master/vision_ws/src/rovio/include/rovio/RovioNode.hpp:197:54:   required from ‘rovio::RovioNode<FILTER>::RovioNode(ros::NodeHandle&, ros::NodeHandle&, std::shared_ptr<_Tp1>) [with FILTER = rovio::RovioFilter<rovio::FilterState<25u, 4, 6, 1, 0> >]’
+/home/uav_master/vision_ws/src/rovio/src/rovio_node.cpp:111:64:   required from here
+/home/uav_master/vision_ws/src/rovio/include/rovio/RovioNode.hpp:481:64: error: ‘cvtColor’ was not declared in this scope
+/home/uav_master/vision_ws/src/rovio/include/rovio/RovioNode.hpp:481:64: note: suggested alternatives:
+In file included from /home/uav_master/vision_ws/src/rovio/include/rovio/FeatureCoordinates.hpp:35:0,
+                 from /home/uav_master/vision_ws/src/rovio/include/rovio/RobocentricFeatureElement.hpp:33,
+                 from /home/uav_master/vision_ws/src/rovio/include/rovio/CoordinateTransform/FeatureOutput.hpp:34,
+                 from /home/uav_master/vision_ws/src/rovio/include/rovio/FilterStates.hpp:36,
+                 from /home/uav_master/vision_ws/src/rovio/include/rovio/RovioFilter.hpp:34,
+                 from /home/uav_master/vision_ws/src/rovio/src/rovio_node.cpp:39:
+/usr/include/opencv2/imgproc/imgproc.hpp:1091:19: note:   ‘cv::cvtColor’
+ CV_EXPORTS_W void cvtColor( InputArray src, OutputArray dst, int code, int dstCn=0 );
+                   ^
+In file included from /home/uav_master/vision_ws/src/rovio/include/rovio/RovioNode.hpp:36:0,
+                 from /home/uav_master/vision_ws/src/rovio/src/rovio_node.cpp:40:
+/opt/ros/indigo/include/cv_bridge/cv_bridge.h:247:12: note:   ‘cv_bridge::cvtColor’
+ CvImagePtr cvtColor(const CvImageConstPtr& source,
+            ^
+make[2]: *** [CMakeFiles/rovio.dir/src/rovio_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rovio.dir/all] Error 2
+make: *** [all] Error 2
